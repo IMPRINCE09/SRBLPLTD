@@ -261,14 +261,12 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .card_one_front img{
     height: 100%;
     width: fit-content;
+    
    
 }
 
 .outer_card_front{
     position: relative;
-     
-     
-
 }
 .outer_one_front {
     position: fixed;
@@ -286,6 +284,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
    padding-right: 4px;
    border-radius: 0px 4px 4px 0px ;
 }
+.outer_one_front img{
+    
+
+}
+
 .outer_two_front {
     position: fixed;
     display: flex;
