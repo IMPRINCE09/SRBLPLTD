@@ -96,7 +96,10 @@
 }/*max-width:480px*/
 
 @media screen and (max-width: 440px){
-	
+	.card_front{
+		margin: 20px 0px 0px;
+		margin-left: 0px;
+	}
 }/*max-width:400px*/
 
 @media screen and (max-width: 399px){
